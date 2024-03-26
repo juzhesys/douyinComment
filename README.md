@@ -16,6 +16,11 @@
 ## 设置界面
 ![image](https://github.com/juzhesys/douyinComment/assets/151597488/66d496ea-5d2d-4172-9da2-be2641b42ac5)
 
+## 报表分析 
+![image](https://github.com/juzhesys/douyinComment/assets/151597488/fb257a44-0b28-4ef7-a087-4ed8d6316b14)
+
+![image](https://github.com/juzhesys/douyinComment/assets/151597488/8b38bea6-fcc8-4a38-8a50-357f7e516aba)
+
 
 
 
